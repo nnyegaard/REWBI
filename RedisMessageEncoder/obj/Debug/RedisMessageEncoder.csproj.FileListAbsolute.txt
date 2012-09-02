@@ -1,0 +1,15 @@
+C:\Users\nnyegaard\Projects\Bachelor\source\WCFChannelTest2\RedisMessageEncoder\bin\Debug\RedisMessageEncoder.dll
+C:\Users\nnyegaard\Projects\Bachelor\source\WCFChannelTest2\RedisMessageEncoder\bin\Debug\RedisMessageEncoder.pdb
+C:\Users\nnyegaard\Projects\Bachelor\source\WCFChannelTest2\RedisMessageEncoder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nnyegaard\Projects\Bachelor\source\WCFChannelTest2\RedisMessageEncoder\obj\Debug\RedisMessageEncoder.dll
+C:\Users\nnyegaard\Projects\Bachelor\source\WCFChannelTest2\RedisMessageEncoder\obj\Debug\RedisMessageEncoder.pdb
+C:\Users\niny.EMENTOR\Bachelor\source\WCFChannelTest2\RedisMessageEncoder\bin\Debug\RedisMessageEncoder.dll
+C:\Users\niny.EMENTOR\Bachelor\source\WCFChannelTest2\RedisMessageEncoder\bin\Debug\RedisMessageEncoder.pdb
+C:\Users\niny.EMENTOR\Bachelor\source\WCFChannelTest2\RedisMessageEncoder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\niny.EMENTOR\Bachelor\source\WCFChannelTest2\RedisMessageEncoder\obj\Debug\RedisMessageEncoder.dll
+C:\Users\niny.EMENTOR\Bachelor\source\WCFChannelTest2\RedisMessageEncoder\obj\Debug\RedisMessageEncoder.pdb
+C:\Users\niny.EMENTOR\Bachelor\source\REWBI_Channel\RedisMessageEncoder\bin\Debug\RedisMessageEncoder.dll
+C:\Users\niny.EMENTOR\Bachelor\source\REWBI_Channel\RedisMessageEncoder\bin\Debug\RedisMessageEncoder.pdb
+C:\Users\niny.EMENTOR\Bachelor\source\REWBI_Channel\RedisMessageEncoder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\niny.EMENTOR\Bachelor\source\REWBI_Channel\RedisMessageEncoder\obj\Debug\RedisMessageEncoder.dll
+C:\Users\niny.EMENTOR\Bachelor\source\REWBI_Channel\RedisMessageEncoder\obj\Debug\RedisMessageEncoder.pdb

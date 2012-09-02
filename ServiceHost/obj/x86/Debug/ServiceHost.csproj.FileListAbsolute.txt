@@ -1,0 +1,10 @@
+C:\Users\nnyegaard\Projects\Bachelor\source\WCFChannelTest2\ServiceHost\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nnyegaard\Projects\Bachelor\source\WCFChannelTest2\ServiceHost\bin\Debug\ServiceHost.exe.config
+C:\Users\nnyegaard\Projects\Bachelor\source\WCFChannelTest2\ServiceHost\bin\Debug\ServiceHost.exe
+C:\Users\nnyegaard\Projects\Bachelor\source\WCFChannelTest2\ServiceHost\bin\Debug\ServiceHost.pdb
+C:\Users\nnyegaard\Projects\Bachelor\source\WCFChannelTest2\ServiceHost\bin\Debug\RedisMessageEncoder.dll
+C:\Users\nnyegaard\Projects\Bachelor\source\WCFChannelTest2\ServiceHost\bin\Debug\WCFChannelTest2.dll
+C:\Users\nnyegaard\Projects\Bachelor\source\WCFChannelTest2\ServiceHost\bin\Debug\RedisMessageEncoder.pdb
+C:\Users\nnyegaard\Projects\Bachelor\source\WCFChannelTest2\ServiceHost\bin\Debug\WCFChannelTest2.pdb
+C:\Users\nnyegaard\Projects\Bachelor\source\WCFChannelTest2\ServiceHost\obj\x86\Debug\ServiceHost.exe
+C:\Users\nnyegaard\Projects\Bachelor\source\WCFChannelTest2\ServiceHost\obj\x86\Debug\ServiceHost.pdb
